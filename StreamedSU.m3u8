@@ -1,4 +1,46 @@
 #EXTM3U x-tvg-url=""
 
-# Generated on 2025-11-13T03:04:44.126393 UTC
+# Generated on 2025-11-13T04:29:32.098266 UTC
+
+# 📺 Source: http://drewlive24.duckdns.org:8081/StreamedSU.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League Women: Bayern Munich W vs Arsenal W" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIYyxz8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" ,UEFA Champions League Women: Bayern Munich W vs Arsenal W
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/utCRFCISMLmvXpNmBQroVnPQRloWseFs/charlie/stream/bayern-munich-w-vs-arsenal-w-1472402/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="UEFA Champions League Women: Barcelona W vs OH Leuven W" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIQiGy4CMYHia0qYFgh1chta+TD3gKoRCA.webp" ,UEFA Champions League Women: Barcelona W vs OH Leuven W
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/oJFOqkZSESSLihdPAaKGNhupWpnMRuGg/charlie/stream/barcelona-w-vs-oh-leuven-w-1472516/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Basketball Nymburk vs ALBA Berlin" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAkQISuQAmYNd1UgIB9VpCmjMEHwIUm1rrvL15olMCa0wusaIhA.webp" ,Basketball Nymburk vs ALBA Berlin
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/jGVITbYSvKnzhvomADfNDxpriWXMSNVi/charlie/stream/nymburk-vs-berlin-1629469399/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Basketball Champions League: AEK vs VEF Riga" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" ,Basketball Champions League: AEK vs VEF Riga
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/sCejdHAPvIcPTNMhpeYOPDFOsLeUyJOC/charlie/stream/aek-vs-vef-riga-1629469400/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="U-BT Cluj-Napoca vs Basquet Manresa" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIGLmZEkIbiDUgQEECRAoQffYYsEKTPii5gy8IvNGOmtMM7GiIQA.webp" ,U-BT Cluj-Napoca vs Basquet Manresa
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/CbPWfPRvDORWgYPfVKHyzoAHQWswkhBc/charlie/stream/u-bt-cluj-napoca-vs-manresa-1629469396/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="EuroCup: Besiktas GAIN Istanbul vs Dolomiti Energia Trento" tvg-logo="https://streamed.pk/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NDhAsQ2ZowAmlkA4swQHEIXPA7r8hexCInm6cnPYQZmF2Tgz8MMB4enRgLAoBkkK08eRgScAB-kA.webp" ,EuroCup: Besiktas GAIN Istanbul vs Dolomiti Energia Trento
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/KUEkDabChvjeJyJcNCLujMBMrNTtQXmt/charlie/stream/besiktas-gain-istanbul-vs-dolomiti-energia-trento-1629469397/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Nitto ATP Finals: Arevalo/Pavic vs Harrison/King - (Men's Doubles)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" ,Nitto ATP Finals: Arevalo/Pavic vs Harrison/King - (Men's Doubles)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/aopQVRyFJzohjNrOEsRgsSsjrVTGcYxK/charlie/stream/arevalopavic-vs-harrisonking-mens-doubles-1629470674/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Horse Racing: America's Day At the Races" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" ,Horse Racing: America's Day At the Races
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/UByFkIeBzyMqhAmUlgBRkzLVmRuQWqRd/charlie/stream/americas-day-at-the-races-1629469395/1/playlist.m3u8
 
