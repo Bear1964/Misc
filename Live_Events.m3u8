@@ -1,0 +1,44 @@
+#EXTM3U x-tvg-url="http://drewlive24.duckdns.org:8081/DrewLive.xml.gz"
+
+# Generated on 2025-11-13T04:31:09.011695 UTC
+
+# 📺 Source: https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoevents.m3u
+#EXTINF:-1 ,11/12/25 07:00:00 PM EST = Northern Illinois Huskies @ UMass Minutemen
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 ,11/12/25 07:00:00 PM EST = Toledo Rockets @ Miami (OH) RedHawks
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 ,11/12/25 07:00:00 PM EST = Buffalo Bulls @ Central Michigan Chippewas
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 ,11/12/25 07:10:00 PM EST = Chicago Bulls @ Detroit Pistons
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 ,11/12/25 07:10:00 PM EST = Orlando Magic @ New York Knicks
+https://v5.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=mLoGp2qnVVcKAdMNtsgShQ&expires=1763008702&user_id=Y25vek1TbkVLY3JUUnBFdzIxQXpnTndwUjB5ZkZkSkVyQVdycFpnTg==
+#EXTINF:-1 ,11/12/25 07:10:00 PM EST = Milwaukee Bucks @ Charlotte Hornets
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 ,11/12/25 07:40:00 PM EST = Cleveland Cavaliers @ Miami Heat
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 ,11/12/25 07:40:00 PM EST = Memphis Grizzlies @ Boston Celtics
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 ,11/12/25 08:10:00 PM EST = Golden State Warriors @ San Antonio Spurs
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 ,11/12/25 08:10:00 PM EST = Washington Wizards @ Houston Rockets
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 ,11/12/25 08:10:00 PM EST = Portland Trail Blazers @ New Orleans Pelicans
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 ,11/12/25 08:40:00 PM EST = Phoenix Suns @ Dallas Mavericks
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 ,11/12/25 09:40:00 PM EST = Los Angeles Lakers @ Oklahoma City Thunder
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 ,11/12/25 10:10:00 PM EST = Atlanta Hawks @ Sacramento Kings
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 ,11/12/25 10:40:00 PM EST = Denver Nuggets @ Los Angeles Clippers
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 ,11/12/25 07:10:00 PM EST = New York Rangers @ Tampa Bay Lightning
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 ,11/12/25 07:40:00 PM EST = Edmonton Oilers @ Philadelphia Flyers
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 ,11/12/25 09:10:00 PM EST = Buffalo Sabres @ Utah Mammoth
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+#EXTINF:-1 ,11/12/25 09:40:00 PM EST = New Jersey Devils @ Chicago Blackhawks
+https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
+
