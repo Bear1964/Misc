@@ -1,0 +1,71 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://v2.streameast.ga/images/buffalo-bulls.svg" group-title="StreamEast - All Sports",Buffalo vs C. Michigan
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://edgestreams.pro/hls/JHDAJBDnjdna30.m3u8?st=T0AKx2oK-bCPD_8joXHrzojA9h3Q9csc6ZC_UlGC7yo&e=1763013898
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://v2.streameast.ga/images/toledo-rockets.svg" group-title="StreamEast - All Sports",Toledo vs Miami-OH
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://edge2caster.pro/hls/qsdnajbq32.m3u8?st=hFkotA0Qq4qVcwuQSPmkrrcmr7dXA8Fx3jb0llrSgWI&e=1763013901
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://v2.streameast.ga/images/northern-illinois-huskies.svg" group-title="StreamEast - All Sports",N. Illinois vs Massachusetts Minutemen
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://mainstreams.pro/hls/sfjnzabacah31.m3u8?st=jiZLQVkaXIWwMLhysV1T1xmzjxE-MWw1eCxr_o9vcH8&e=1763013903
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://v2.streameast.ga/images/los-angeles-lakers.svg" group-title="StreamEast - NBA",Los Angeles Lakers vs Oklahoma City Thunder
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://mainstreams.pro/hls/yjtzafghvjza74.m3u8?st=uYWLwHMpPMTnWgJei4IHtXLEEsShR2fmA6iZkw64xcs&e=1763013905
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://v2.streameast.ga/images/memphis-grizzlies.svg" group-title="StreamEast - NBA",Memphis Grizzlies vs Boston Celtics
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://edge2caster.pro/hls/zayrtezafgvdv68.m3u8?st=OuGzKESyKVl9yeyHfXAlcJnEAlHRXYKaZGggCWNxiSU&e=1763013907
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://v2.streameast.ga/images/cleveland-cavaliers.svg" group-title="StreamEast - NBA",Cleveland Cavaliers vs Miami Heat
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://edgestreams.pro/hls/zeafwqvhfe69.m3u8?st=Z7lMTSAOJYpXXpOmFKUC5UEifaD-wKc5gfo3MGjqVys&e=1763013908
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://v2.streameast.ga/images/washington-wizards.svg" group-title="StreamEast - NBA",Washington Wizards vs Houston Rockets
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?st=AKt5z46-PO8GbOJscuYVly66EvBdYAdx8DIUKgziItU&e=1763013910
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://v2.streameast.ga/images/portland-trail-blazers.svg" group-title="StreamEast - NBA",Portland Trail Blazers vs New Orleans Pelicans
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://mainstreams.pro/hls/ztyarueaghj71.m3u8?st=xwOyKWnpqD2u3clkmBKnH7gttkcropzmLIi-cy2SIKo&e=1763013912
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://v2.streameast.ga/images/golden-state-warriors.svg" group-title="StreamEast - NBA",Golden State Warriors vs San Antonio Spurs
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?st=eBO10K_HcSNcJVG_n4a8kgqoT9Jq1Fv1Stqn3n-u0Y0&e=1763013914
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://v2.streameast.ga/images/phoenix-suns.svg" group-title="StreamEast - NBA",Phoenix Suns vs Dallas Mavericks
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://edgestreams.pro/hls/fdgsqdfawa73.m3u8?st=53eI17xJsYzTVYWvFdCdhdSB6AjOCJkRxwTbiXYqKyM&e=1763013916
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://v2.streameast.ga/images/atlanta-hawks.svg" group-title="StreamEast - NBA",Atlanta Hawks vs Sacramento Kings
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://edgestreams.pro/hls/sqhdghzavbxu75.m3u8?st=ESKdic9eCADYujsXRhyl7qUR5H6Szi1F-TsrcL-7MQg&e=1763013918
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://v2.streameast.ga/images/edmonton-oilers.svg" group-title="StreamEast - NHL",Edmonton Oilers vs Philadelphia Flyers
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=MvuZbM15XrGatmW_j3XAE9DfIO-NWU376u1S6q2-g1Q&e=1763013919
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://v2.streameast.ga/images/buffalo-sabres.svg" group-title="StreamEast - NHL",Buffalo Sabres vs Utah Mammoth
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://edge2caster.pro/hls/lmdsjkfgv52.m3u8?st=usJDtBkcIYoDLz-vt9IXC8C0qxl5cvPLvqXu8VIPWRg&e=1763013921
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://v2.streameast.ga/images/new-jersey-devils.svg" group-title="StreamEast - NHL",New Jersey Devils vs Chicago Blackhawks
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://edgestreams.pro/hls/rtzaeyvhb53.m3u8?st=jer3Bd4U6d_LgicOYVDp01Y03IdyPvUP5eTakeMMb9M&e=1763013923
