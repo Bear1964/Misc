@@ -1,1 +1,46 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://v2.streameast.ga/images/toronto-raptors.svg" group-title="StreamEast - NBA",Toronto Raptors vs Cleveland Cavaliers
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://edge2caster.pro/hls/mlkijfezag65.m3u8?st=atPICOqYUo0PJ8Lde_U_MvzWhpnptmzHEouzfyEBpcM&e=1763095947
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://v2.streameast.ga/images/los-angeles-kings.svg" group-title="StreamEast - NHL",Los Angeles Kings vs Toronto Maple Leafs
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://mainstreams.pro/hls/uyopzarf50.m3u8?st=-ACuqHbkEzfzlRokMlArVdJkHlG_g4xfGBoSKBHUzhs&e=1763095950
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://v2.streameast.ga/images/dallas-stars.svg" group-title="StreamEast - NHL",Dallas Stars vs Montreal Canadiens
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?st=uCMOzzAMykxYBLKNTmwnZ9IgqH1gdImnUFo62mBb4_M&e=1763095952
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://v2.streameast.ga/images/boston-bruins.svg" group-title="StreamEast - NHL",Boston Bruins vs Ottawa Senators
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://mainstreams.pro/hls/lmdsjkfgv52.m3u8?st=wKVqPJWuOXJejlB_gBrCXjyVA-H1QFjmjxyJOmTvzCY&e=1763095955
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://v2.streameast.ga/images/anaheim-ducks.svg" group-title="StreamEast - NHL",Anaheim Ducks vs Detroit Red Wings
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://edge2caster.pro/hls/rtzaeyvhb53.m3u8?st=CfChGdckxShp0AnJN_ilSpUbe7yPIJldPT9WZmzZUF8&e=1763095959
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://v2.streameast.ga/images/washington-capitals.svg" group-title="StreamEast - NHL",Washington Capitals vs Florida Panthers
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://edgestreams.pro/hls/bnvcxwhfg54.m3u8?st=u8t1k2dxAiqef8p7aormXIgrs7JYMGpENTQFiieWIbI&e=1763095961
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://v2.streameast.ga/images/edmonton-oilers.svg" group-title="StreamEast - NHL",Edmonton Oilers vs Columbus Blue Jackets
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://mainstreams.pro/hls/sdezqfza55.m3u8?st=T2j528vbr7U7h4-2WVCelkRS81S-U5MoREA_ipB-YH8&e=1763095963
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://v2.streameast.ga/images/troy-trojans.svg" group-title="StreamEast - All Sports",Troy vs Old Dominion
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://mainstreams.pro/hls/sfjnzabacah31.m3u8?st=9nNK0bMUyzuIHBiLfaoWNiS0dkxheljKCujQRchJeX4&e=1763095965
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://v2.streameast.ga/images/new-york-jets.svg" group-title="StreamEast - NFL",New York Jets vs New England Patriots
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://edgestreams.pro/hls/JHDAJBDnjdna30.m3u8?st=jzHLGemf8yYRRfwmciguYaFNmZQME4rNjE89wVA5rEw&e=1763095966
