@@ -1,1 +1,16 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://v2.streameast.ga/images/miami-heat.svg" group-title="StreamEast - NBA",Miami Heat vs New York Knicks
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://edgestreams.pro/hls/mlkijfezag65.m3u8?st=5Rys2DYGVMdXTUmgSz5fOqoilEnV5WQAtFXIlmm_F5E&e=1763176016
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://v2.streameast.ga/images/brooklyn-nets.svg" group-title="StreamEast - NBA",Brooklyn Nets vs Orlando Magic
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?st=eDPt7hsP7H9nLDC4I1DHOEYuNc-kiucLz4sRn0vDCVk&e=1763176018
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://v2.streameast.ga/images/vancouver-canucks.svg" group-title="StreamEast - NHL",Vancouver Canucks vs Carolina Hurricanes
+#EXTVLCOPT:http-origin=https://streamcenter.pro
+#EXTVLCOPT:http-referrer=https://streamcenter.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://edge2caster.pro/hls/hjksgdfauzy51.m3u8?st=_6zaSbHdbhIU7tATeL5dTS5lnE_8qH38LWJsH30EAx4&e=1763176020
